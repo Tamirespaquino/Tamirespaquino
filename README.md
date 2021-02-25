@@ -1,4 +1,4 @@
-### Hi! <img alt="img_saudacao" src="https://emojis.slackmojis.com/emojis/images/1612924961/12475/meow_flower.png?1612924961" width="30"/>
+### Hi! 
 
 I'm Tamires and currently changing careers. 
 <hr>
@@ -33,20 +33,20 @@ I'm Tamires and currently changing careers.
 
 <hr>
 
-:sparkling_heart: I love:
+I love:
 
 automate things, constant learning, data science, API, microservices and chemistry
 
 <hr>
 
-:smile_cat: Fun fact:
+Fun fact:
 
 I'm deeply in love with animals and plants, and I have 5 fluffy cats <img alt="img_saudacao" src="https://emojis.slackmojis.com/emojis/images/1613094672/12580/meow_wink.png?1613094672" width="30"/> .
 
 <hr>
 <!-- Estatística -->
 
-:chart_with_upwards_trend: Let's see some statistics:
+Let's see some statistics:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespaquino)](https://github.com/anuraghazra/github-readme-stats)
 
