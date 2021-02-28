@@ -26,9 +26,6 @@ I'm Tamires and currently changing careers.
   
   <img alt="mysql" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="30"/>
   
-  <img alt="excel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013_logo.svg/611px-Microsoft_Excel_2013_logo.svg.png" width="30"/>
-  
-  <img alt="googlesheets" src="https://www.seekpng.com/png/detail/373-3732461_google-sheets-is-an-online-spreadsheet-solution-similar.png" width="30"/>
 </div>
 
 <hr>
