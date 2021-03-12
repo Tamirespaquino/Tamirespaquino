@@ -1,6 +1,6 @@
 ### Hi! 
 
-I'm Tamires and currently changing careers. 
+I'm Tamires and work as Node.JS Jr Dev. 
 <hr>
 
 :blue_book: I'm currently learning:
