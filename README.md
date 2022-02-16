@@ -38,7 +38,7 @@ automate things, constant learning, data science, API, microservices and chemist
 
 Fun fact:
 
-I'm deeply in love with animals and plants, and I have 5 fluffy cats <img alt="img_saudacao" src="https://emojis.slackmojis.com/emojis/images/1613094672/12580/meow_wink.png?1613094672" width="30"/> .
+I'm deeply in love with animals and plants, and I have 4 fluffy cats <img alt="img_saudacao" src="https://emojis.slackmojis.com/emojis/images/1613094672/12580/meow_wink.png?1613094672" width="30"/> .
 
 <hr>
 <!-- Estatística -->
