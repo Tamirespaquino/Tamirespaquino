@@ -1,6 +1,11 @@
 ### Hi! 
 
-I'm Tamires and work as Node.JS Jr Dev. 
+I'm Tamires and a lot is going on in my life right now! 
+- I'm doing udergraduation at Fatec in System Analysis
+- Also doing a Master Program in Sciene using Machine Learning and Python at USP
+- And in my third job since I changed career last year. Now I work with Java =D (also worked with TS and JS)
+- Maybe something new occurs in the next months
+
 <hr>
 
 :blue_book: I'm currently learning:
